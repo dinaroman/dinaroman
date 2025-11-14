@@ -1,9 +1,5 @@
 <h1 align="center">¡Hola! Soy Dina Roman 👋</h1>
 
-<p align="center">
-  <b>Desarrolladora Full Stack | MERN | Python | Informática Empresarial</b>
-</p>
-
 ---
 
 ## ✨ Sobre mí
