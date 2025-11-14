@@ -8,9 +8,10 @@
 
 ## ✨ Sobre mí
 
-Soy **Dina Roman**, desarrolladora web full stack con experiencia en la pila **MERN**, Python y Flask.  
-Me apasiona crear aplicaciones útiles, aprender nuevas tecnologías y mejorar constantemente mis habilidades.  
-Disfruto trabajar en equipo, resolver problemas y construir soluciones que aporten valor.
+Soy **Dina Roman**, desarrolladora **Full Stack** con conocimientos en tecnologías JavaScript como **Node.js**, **Express**, **React**, y experiencia adicional en **Python** y **Flask**.  
+Me apasiona crear aplicaciones útiles, aprender nuevas herramientas y mejorar constantemente mis habilidades en el desarrollo web.  
+Disfruto resolver problemas, trabajar en equipo y construir soluciones que aporten valor.
+
 
 ---
 
